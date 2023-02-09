@@ -1,4 +1,6 @@
-const initialState = {}
+const initialState = {
+    test:test
+}
 
 const productReducer = (state = initialState, action) => {
 
